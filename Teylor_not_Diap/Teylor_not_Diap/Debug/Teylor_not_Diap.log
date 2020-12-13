@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\ermol\documents\visual studio 2015\projects\teylor_not_diap\teylor_not_diap\source.c(55): warning C4716: 'StartPer': must return a value
+c:\users\ermol\documents\visual studio 2015\projects\teylor_not_diap\teylor_not_diap\source.c(62): warning C4716: 'ObnullPer': must return a value
+  Teylor_not_Diap.vcxproj -> c:\users\ermol\documents\visual studio 2015\Projects\Teylor_not_Diap\Debug\Teylor_not_Diap.exe
+  Teylor_not_Diap.vcxproj -> c:\users\ermol\documents\visual studio 2015\Projects\Teylor_not_Diap\Debug\Teylor_not_Diap.pdb (Partial PDB)
